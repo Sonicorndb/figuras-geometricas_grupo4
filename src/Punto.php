@@ -20,8 +20,7 @@ public class Punto{
     }
 
     public function Distancia($punto){
-        return $this->$punto.getX()+$punto.getY();
-        //comprobar si el método es correcto
+        return $this->Math.sqrt(pow(($punto.getX() - 0), 2)+ pow(($punto.getY() - 0), 2));
     }
 }
 ?>
