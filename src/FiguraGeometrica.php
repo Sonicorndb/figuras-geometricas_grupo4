@@ -5,7 +5,6 @@ include_once 'Punto.php';
 
         public function __construct($nombre){
             $this->nombre = $nombre;
-            $this->precio = $precio;
         }
 
         public function getNombre(){
