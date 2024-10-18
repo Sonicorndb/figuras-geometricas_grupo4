@@ -1,4 +1,6 @@
-Organización del trabajo:
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Organización del trabajo:
 
 David-
 Gregorio-
@@ -8,3 +10,7 @@ Andrés-
 Dificultades:
 
 Soluciones:
+
+
+
+
