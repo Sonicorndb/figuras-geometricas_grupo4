@@ -1,5 +1,5 @@
 <?php
-include_once 'punto.php';
+include_once 'Punto.php';
     abstract class FiguraGeometrica extends Punto{
         protected $nombre;
 
