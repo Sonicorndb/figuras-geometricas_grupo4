@@ -21,6 +21,7 @@ public class Punto{
 
     public function Distancia($punto){
         return $this->$punto.getX()+$punto.getY();
+        //comprobar si el método es correcto
     }
 }
 ?>
